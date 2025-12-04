@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="OpenContentAIChat" type="PersonaBar" version="00.01.00">
+    <package name="OpenContentAIChat" type="PersonaBar" version="00.02.00">
       <friendlyName>OpenContent AI Chat</friendlyName>
       <description>OpenContent Extension for AIChat.</description>
       <iconFile>~/DesktopModules/Admin/AIChat/icon_aichat.png</iconFile>
@@ -30,7 +30,7 @@
         <component type="Assembly">
           <assemblies>
             <assembly>
-              <name>Satrabel.AIChat.dll</name>
+              <name>Satrabel.OpenContentAIChat.dll</name>
               <path>bin</path>
             </assembly>
           </assemblies>
